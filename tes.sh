@@ -1,5 +1,2 @@
 new file
-<<<<<<< HEAD
-kkk
-=====
->>>>>>> ft
+eee
